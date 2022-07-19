@@ -12,12 +12,12 @@ redirect_from:
 
 
 
-Work Experience
+Work Experiences
 =====
 + 2022.7 - now, **Baidu Autonomous Driving Technology Department. Computer Vision Algorithm R&D Engineer**.
 
 
-+ 2020.1 - 2020.5, **ByteDance AI Lab. Computer Vision Intern**.
++ 2020.1 - 2020.5, **ByteDance AI Lab. CV Intern**.
   
   Automatic generation of advertising posters based on user input text and drawings. Solution: Dynamic content layout, and structured color scheme using two-step approach 1) GAN to generate palette; 2) color matching evaluation.
 
@@ -99,5 +99,6 @@ Skills
 + Programming Language: **Python3**, C++, Latex, Java
 + Framework： **PyTorch, TensorFlow**, Scikit-Learn,  OpenCV, Pyqt5, Pandas, XGBoost, Matplotlib, etc.
 + Language: Chinese (Native), English (Good)
+
 
 My personal interests include Math, Reading, Tin whistle, Kalimba, Running, etc. Thanks my Lulu.
