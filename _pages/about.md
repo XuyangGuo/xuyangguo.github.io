@@ -52,7 +52,7 @@ Publications
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/CtrlHair.pdf">Paper</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/bib.txt">Bib</a>
     </td>
-<!table>
+</table>
 
 <!--STD-GAN-->
 <table>
@@ -67,7 +67,7 @@ Publications
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/STD-GAN.pdf">Paper</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/bib.txt">Bib</a>
     </td>
-<!table>
+</table>
 
 
 Projects
