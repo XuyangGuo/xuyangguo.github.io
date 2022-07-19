@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 + Email: [xyguoo@163.com](mailto:xyguoo@163.com)
-
++ Work and research direction: Computer Vision, Perception, Image Generation and Editing, Machine Learning
 
 
 Work Experience
 =====
 * 2022.7 - now, Computer Vision Algorithm R&D Engineer
-  * **Baidu Autonomous Driving Technology Department**
+  * Autonomous Driving Technology Department, **Baidu**
   
 
 * 2020.1 - 2020.5, Computer Vision Intern
-  * **ByteDance AI Lab**
+  * AI Lab, **ByteDance**
   * Automatic generation of advertising posters based on user input text and drawings.
   * Solution: Dynamic content layout, and structured color scheme using two-step approach 1) GAN to generate palette; 2) color matching evaluation.
 
@@ -33,7 +33,7 @@ Work Experience
 
 Education
 =====
-+ 2019.9 - 2022.7, M.S. in Institute of Computing Technology, Chinese Academy of Sciences, under the supervision of Prof. [Meina Kan](https://vipl.ict.ac.cn/homepage/mnkan/index.html). I am also a member of [VIPL Group](http://vipl.ict.ac.cn/), which is led by Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/~xlchen) and Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan). GPA: 3.89/4.0. 
++ 2019.9 - 2022.7, Full-time M.S. in Institute of Computing Technology, Chinese Academy of Sciences, under the supervision of Prof. [Meina Kan](https://vipl.ict.ac.cn/homepage/mnkan/index.html). I am also a member of [VIPL Group](http://vipl.ict.ac.cn/), which is led by Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/~xlchen) and Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan). GPA: 3.89/4.0. 
 + 2015.9 - 2019.6, B.S. in School of Computer Science, Wuhan University. GPA: 3.7/4.0 (Rank within 5%).
  
 
@@ -75,7 +75,7 @@ Publications
 Projects
 =========
 * 2020.7 - 2021.6, Portrait Relighting
-  * **HUAWEI 2012 Lab**
+  * 2012 Lab, **HUAWEI**
   * Re-lighting with a single portrait image in any target lighting direction. 
   * To achieve realistic and available effect, we desgin a two-stage solution 1) 3D reconstruction for diffuse rendering; 2) GAN network fine-tuning.
 
@@ -103,4 +103,4 @@ Skills
 + Languages: Chinese (Native), English (Good)
 
 
-My personal interests include Math, Reading, Tin whistle, Kalimba, Running, etc. Thanks my Lulu.
+My personal interests include Math, Reading, Tin whistle, Kalimba, Running, etc. Thanks my Lulu ☀.
