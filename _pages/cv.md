@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-+ 邮箱: [xyguoo@163.com](mailto:xyguoo@163.com)
++ 邮箱：[xyguoo@163.com](mailto:xyguoo@163.com)
 + 工作和研究方向：计算机视觉、感知、图像生成和编辑、机器学习
 
 
