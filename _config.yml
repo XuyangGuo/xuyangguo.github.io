@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "郭旭阳（Xuyang Guo）"
 title_separator          : "-"
-name                     : "Xuyang Guo"
+name                     : &name "Xuyang Guo"
 description              : &description "Computer Vision Algorithm R&D Engineer"
 url                      : https://xuyangguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,8 +87,7 @@ author:
   employer         : "百度"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QCNjpP4AAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "xyguoo@163.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +108,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
