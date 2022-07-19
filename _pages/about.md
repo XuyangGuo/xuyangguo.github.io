@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "郭旭阳（Xuyang Guo）"
+title: "郭旭阳 (Xuyang Guo)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
