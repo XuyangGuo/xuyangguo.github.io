@@ -22,10 +22,10 @@ Work Experience
   Automatic generation of advertising posters based on user input text and drawings. Solution: Dynamic content layout, and structured color scheme using two-step approach 1) GAN to generate palette; 2) color matching evaluation.
 
 
-+ 2017.10-2019.10, **[NineChapter](https://www.jiuzhang.com/). Teaching Assistant of Machine Learning, Deep Learning and Traditional Algorithms Courses.**
++ 2017.10-2019.10, **[NineChapter](https://www.jiuzhang.com/). Teaching Assistant of ML, DL and Traditional Algorithm Courses.**
     
-  The organization is positioned for online education, covering traditional algorithms, artificial intelligence, etc.    
-    Hundreds of students have been helped by us, including the common algorithms and applications of CV, NLP and ML.
+  The organization aims at online education, covering traditional algorithms, artificial intelligence, etc.    
+    Hundreds of students have been helped by us by teaching the common algorithms and applications of CV, NLP and ML.
 
 
 
@@ -52,10 +52,10 @@ Publications
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/CtrlHair.pdf">Paper</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/bib.txt">Bib</a>
     </td>
-</table>
+
 
 <!--STD-GAN-->
-<table>
+
     <td width="1000"><a href="https://github.com/XuyangGuo/STD-GAN"><img src="database/STD-GAN/resources/thumb.jpg" width="1000"></a></td>
     
     <td width="4000">
@@ -73,19 +73,17 @@ Publications
 
 Projects
 =========
-+ 2020.7 - 2021.6, **Huawei 2012 Lab. Portrait Relighting.**
++ 2020.7 - 2021.6, **HUAWEI 2012 Lab. Portrait Relighting.**
   
-  Re-lighting with a selfie image, lighting in any direction. To achieve realistic and available effect, we desgin a two-stage solution 1) 3D reconstruction for diffuse rendering; 2) GAN network fine-tuning.
+  Re-lighting with a single portrait image in any target lighting direction. To achieve realistic and available effect, we desgin a two-stage solution 1) 3D reconstruction for diffuse rendering; 2) GAN network fine-tuning.
 
 
-Honors & Awards
+Awards
 ======
 
 + 2017.11 National Scholarship (Award Ratio: 1/60)
 
-
-
-Learning & Skills 
+Skills 
 =====
 
 + I am a lover of technical books. Some Reading Notes and tutorials can be found in my [Blog](https://blog.csdn.net/qq_32071849?type=blog): 
@@ -101,3 +99,5 @@ Learning & Skills
 + Programming Language: **Python3**, C++, Latex, Java
 + Framework： **PyTorch, TensorFlow**, Scikit-Learn,  OpenCV, Pyqt5, Pandas, XGBoost, Matplotlib, etc.
 + Language: Chinese (Native), English (Good)
+
+My personal interests include Math, Reading, Tin whistle, Kalimba, Running, etc. Thanks my Lulu.
