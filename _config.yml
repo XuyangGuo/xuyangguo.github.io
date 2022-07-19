@@ -80,39 +80,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "郭旭阳"
   avatar           : "profile.png"
   bio              : "CV算法研发工程师"
   location         : "北京"
   employer         : "百度"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=QCNjpP4AAAAJ"
   email            : "xyguoo@163.com"
+  blog             : "https://blog.csdn.net/qq_32071849?type=blog"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "XuyangGuo"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5663-7957"
+  googlescholar    : "https://scholar.google.com/citations?user=QCNjpP4AAAAJ"
+  linkedin         : "https://www.linkedin.cn/incareer/in/xuyang-guo-9346011a3"
+# orcid            : "https://orcid.org/0000-0001-5663-7957"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
