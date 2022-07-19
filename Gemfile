@@ -1,4 +1,3 @@
-# source "https://rubygems.org"
 source "https://mirrors.ustc.edu.cn/rubygems/"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -28,5 +27,5 @@ group :jekyll_plugins do
 end
 
 gem 'tzinfo'
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw] 
+gem 'tzinfo-data'
 gem "webrick", "~> 1.7"

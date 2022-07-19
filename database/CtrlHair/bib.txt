@@ -1,0 +1,7 @@
+@inproceedings{guo2022gan,
+  title={GAN with Multivariate Disentangling for Controllable Hair Editing},
+  author={Guo, Xuyang and Kan, Meina and Chen, Tianle and Shan, Shiguang},
+  booktitle={European Conference on Computer Vision},
+  year={2022},
+  organization={Springer}
+}

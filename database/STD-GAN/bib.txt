@@ -1,0 +1,8 @@
+@article{guo2021image,
+  title={Image Style Disentangling for Instance-level Facial Attribute Transfer},
+  author={Guo, Xuyang and Kan, Meina and He, Zhenliang and Song, Xingguang and Shan, Shiguang},
+  journal={Computer Vision and Image Understanding},
+  volume={207},
+  pages={103205},
+  year={2021}
+}
