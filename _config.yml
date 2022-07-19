@@ -8,7 +8,7 @@
 # Site Settings
 # locale                   : "en-US"
 locale                   : "zh-CN"
-title                    : "郭旭阳（Xuyang Guo）"
+title                    : "郭旭阳 (Xuyang Guo)"
 title_separator          : "-"
 name                     : &name "Xuyang Guo"
 description              : &description "Baidu <- ICT,CAS"
