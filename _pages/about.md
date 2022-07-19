@@ -95,9 +95,9 @@ Skills
   + [Tutorial: Summarize the Basics of Linear Algebra and Matrix Theory in Machine Learning](https://blog.csdn.net/qq_32071849/article/details/106877634)
   + [Tutorial: Book List: Introductory Book Recommendations for Algorithm Engineers](https://blog.csdn.net/qq_32071849/article/details/114605091?spm=1001.2014.3001.5502)
   + etc.
-+ Programming Language: **Python3**, C++, Latex, Java
-+ Framework： PyTorch, TensorFlow, Scikit-Learn,  OpenCV, Pyqt5, Pandas, XGBoost, Matplotlib, etc.
-+ Language: Chinese (Native), English (Good)
++ Programming Languages: **Python3**, C++, Latex, Java
++ Frameworks： PyTorch, TensorFlow, Scikit-Learn,  OpenCV, Pyqt5, Pandas, XGBoost, Matplotlib, etc.
++ Languages: Chinese (Native), English (Good)
 
 
 My personal interests include Math, Reading, Tin whistle, Kalimba, Running, etc. Thanks my Lulu.
