@@ -17,7 +17,7 @@ Work Experiences
 + 2022.7 - now, **Baidu Autonomous Driving Technology Department. Computer Vision Algorithm R&D Engineer**.
 
 
-+ 2020.1 - 2020.5, **ByteDance AI Lab. CV Intern**.
++ 2020.1 - 2020.5, **ByteDance AI Lab. Computer Vision Intern**.
   
   Automatic generation of advertising posters based on user input text and drawings. Solution: Dynamic content layout, and structured color scheme using two-step approach 1) GAN to generate palette; 2) color matching evaluation.
 
