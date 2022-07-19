@@ -34,7 +34,7 @@ redirect_from:
 
 ---
 
-教育
+学历
 =====
 + 2019.9 - 2022.7, 全日制硕士，中国科学院计算技术研究所。GPA: 3.89/4.0。
   + 导师：[阚美娜老师](https://vipl.ict.ac.cn/homepage/mnkan/index.html) 。我们隶属于[VIPL组（视觉信息处理与学习研究组）](http://vipl.ict.ac.cn)，组长是 [陈熙霖老师](https://vipl.ict.ac.cn/people/~xlchen) 和 [山世光老师](https://vipl.ict.ac.cn/people/~sgshan) 。 
