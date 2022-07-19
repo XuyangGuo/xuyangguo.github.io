@@ -11,6 +11,7 @@ redirect_from:
 + Email: [xyguoo@163.com](mailto:xyguoo@163.com)
 + Work and research direction: Computer Vision, Perception, Image Generation and Editing, Machine Learning
 
+---
 
 Work Experience
 =====
@@ -29,14 +30,14 @@ Work Experience
   * The organization aims at online education, covering traditional algorithms, artificial intelligence, etc.
   * Hundreds of students have been helped by us by teaching the common algorithms and applications of CV, NLP and ML.
 
-
+---
 
 Education
 =====
 + 2019.9 - 2022.7, Full-time M.S. in Institute of Computing Technology, Chinese Academy of Sciences, under the supervision of Prof. [Meina Kan](https://vipl.ict.ac.cn/homepage/mnkan/index.html). I am also a member of [VIPL Group](http://vipl.ict.ac.cn/), which is led by Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/~xlchen) and Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan). GPA: 3.89/4.0. 
 + 2015.9 - 2019.6, B.S. in School of Computer Science, Wuhan University. GPA: 3.7/4.0 (Rank within 5%).
  
-
+---
 
 Publications
 ======
@@ -71,6 +72,7 @@ Publications
     </td>
 </table>
 
+---
 
 Projects
 =========
@@ -79,11 +81,15 @@ Projects
   * Re-lighting with a single portrait image in any target lighting direction. 
   * To achieve realistic and available effect, we desgin a two-stage solution 1) 3D reconstruction for diffuse rendering; 2) GAN network fine-tuning.
 
+---
 
 Awards
 ======
 
 + 2017.11 National Scholarship (Award Ratio: 1/60)
+
+---
+
 
 Skills 
 =====
@@ -102,5 +108,6 @@ Skills
 + Frameworks： PyTorch, TensorFlow, Scikit-Learn,  OpenCV, Pyqt5, Pandas, XGBoost, Matplotlib, etc.
 + Languages: Chinese (Native), English (Good)
 
+---
 
 My personal interests include Math, Reading, Tin whistle, Kalimba, Running, etc. Thanks my Lulu ☀.
