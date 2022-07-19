@@ -44,7 +44,7 @@ Publications
 
 <!--CtrlHair-->
 <table>
-    <td width="1000"><a href="https://github.com/XuyangGuo/CtrlHair"><img src="database/CtrlHair/resources/thumb.png" width="1000"></a></td>
+    <td width="1000"><a href="https://github.com/XuyangGuo/CtrlHair"><img src="https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/master/database/CtrlHair/resources/thumb.png" width="1000"></a></td>
     
     <td width="4000">
         <p class="content"><strong>GAN with Multivariate Disentangling for Controllable Hair Editing</strong></p>
@@ -59,7 +59,7 @@ Publications
 
 <!--STD-GAN-->
 <table>
-    <td width="1000"><a href="https://github.com/XuyangGuo/STD-GAN"><img src="database/STD-GAN/resources/thumb.jpg" width="1000"></a></td>
+    <td width="1000"><a href="https://github.com/XuyangGuo/STD-GAN"><img src="https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/master/database/STD-GAN/resources/thumb.jpg" width="1000"></a></td>
     
     <td width="4000">
         <p class="content"><strong>Image Style Disentangling for Instance-level Facial Attribute Transfer</strong></p>
