@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+   - title: "中文主页"
+     url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/

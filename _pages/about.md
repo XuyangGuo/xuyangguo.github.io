@@ -12,27 +12,29 @@ redirect_from:
 
 
 
-Work Experiences
+Work Experience
 =====
-+ 2022.7 - now, **Baidu Autonomous Driving Technology Department. Computer Vision Algorithm R&D Engineer**.
-
-
-+ 2020.1 - 2020.5, **ByteDance AI Lab. Computer Vision Intern**.
+* 2022.7 - now, Computer Vision Algorithm R&D Engineer
+  * **Baidu Autonomous Driving Technology Department**
   
-  Automatic generation of advertising posters based on user input text and drawings. Solution: Dynamic content layout, and structured color scheme using two-step approach 1) GAN to generate palette; 2) color matching evaluation.
+
+* 2020.1 - 2020.5, Computer Vision Intern
+  * **ByteDance AI Lab**
+  * Automatic generation of advertising posters based on user input text and drawings.
+  * Solution: Dynamic content layout, and structured color scheme using two-step approach 1) GAN to generate palette; 2) color matching evaluation.
 
 
-+ 2017.10-2019.10, [NineChapter](https://www.jiuzhang.com/). Teaching Assistant of ML, DL and Traditional Algorithm Courses.
-    
-  The organization aims at online education, covering traditional algorithms, artificial intelligence, etc.    
-    Hundreds of students have been helped by us by teaching the common algorithms and applications of CV, NLP and ML.
+* 2017.10-2019.10, Teaching Assistant of Machine Learning, Deep Learning and Traditional Algorithm Courses
+  * [**NineChapter**](https://www.jiuzhang.com/)
+  * The organization aims at online education, covering traditional algorithms, artificial intelligence, etc.
+  * Hundreds of students have been helped by us by teaching the common algorithms and applications of CV, NLP and ML.
 
 
 
 Education
 =====
-+ 2019.9 - 2022.7, I obtained my Master degree from Institute of Computing Technology, Chinese Academy of Sciences, under the supervision of Prof. [Meina Kan](https://vipl.ict.ac.cn/homepage/mnkan/index.html). I am also a member of [VIPL Group](http://vipl.ict.ac.cn/), which is led by Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/~xlchen) and Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan). GPA: 3.89/4.0. 
-+ 2015.9 - 2019.6, I obtained my Bachelor Degree from School of Computer Science, Wuhan University. GPA: 3.7/4.0 (Rank within 5%).
++ 2019.9 - 2022.7, M.S. in Institute of Computing Technology, Chinese Academy of Sciences, under the supervision of Prof. [Meina Kan](https://vipl.ict.ac.cn/homepage/mnkan/index.html). I am also a member of [VIPL Group](http://vipl.ict.ac.cn/), which is led by Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/~xlchen) and Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan). GPA: 3.89/4.0. 
++ 2015.9 - 2019.6, B.S. in School of Computer Science, Wuhan University. GPA: 3.7/4.0 (Rank within 5%).
  
 
 
@@ -72,9 +74,10 @@ Publications
 
 Projects
 =========
-+ 2020.7 - 2021.6, HUAWEI 2012 Lab. Portrait Relighting.
-  
-  Re-lighting with a single portrait image in any target lighting direction. To achieve realistic and available effect, we desgin a two-stage solution 1) 3D reconstruction for diffuse rendering; 2) GAN network fine-tuning.
+* 2020.7 - 2021.6, Portrait Relighting
+  * **HUAWEI 2012 Lab**
+  * Re-lighting with a single portrait image in any target lighting direction. 
+  * To achieve realistic and available effect, we desgin a two-stage solution 1) 3D reconstruction for diffuse rendering; 2) GAN network fine-tuning.
 
 
 Awards
