@@ -23,7 +23,8 @@ redirect_from:
 
 * 2020.1 - 2020.5, 计算机视觉实习生
   * **字节跳动 - AI Lab**
-  * 广告海报图自动生成，符合用户输入文案和配图。设计：动态布局；两步方式的结构化自动配色：1）GAN生成调色盘，2）色彩搭配评估。
+  * 广告海报图自动生成，符合用户输入文案和配图。 
+  * 设计：动态布局；两步方式的结构化自动配色，1）GAN生成调色盘，2）色彩搭配评估。
 
 
 * 2017.10-2019.10, 机器学习、深度学习和传统算法助教
@@ -35,7 +36,8 @@ redirect_from:
 
 教育
 =====
-+ 2019.9 - 2022.7, 全日制硕士，中国科学院计算技术研究所。导师：[阚美娜老师](https://vipl.ict.ac.cn/homepage/mnkan/index.html) 。我们隶属于[VIPL组（视觉信息处理与学习研究组）](http://vipl.ict.ac.cn)，组长是 [陈熙霖老师](https://vipl.ict.ac.cn/people/~xlchen) 和 [山世光老师](https://vipl.ict.ac.cn/people/~sgshan) 。GPA: 3.89/4.0。 
++ 2019.9 - 2022.7, 全日制硕士，中国科学院计算技术研究所。GPA: 3.89/4.0。
+  + 导师：[阚美娜老师](https://vipl.ict.ac.cn/homepage/mnkan/index.html) 。我们隶属于[VIPL组（视觉信息处理与学习研究组）](http://vipl.ict.ac.cn)，组长是 [陈熙霖老师](https://vipl.ict.ac.cn/people/~xlchen) 和 [山世光老师](https://vipl.ict.ac.cn/people/~sgshan) 。 
 + 2015.9 - 2019.6, 本科，武汉大学计算机学院。GPA: 3.7/4.0（排名<5%）。
  
 ---
@@ -105,7 +107,7 @@ redirect_from:
   + [教程: 书单：算法工程师的入门书籍推荐](https://blog.csdn.net/qq_32071849/article/details/114605091?spm=1001.2014.3001.5502)
   + ……
 + 语言：**Python3**, C++, Latex, Java
-+ 框架：PyTorch, TensorFlow, Scikit-Learn,  OpenCV, Pyqt5, Pandas, XGBoost, Matplotlib, etc.
++ 框架：PyTorch, TensorFlow, Scikit-Learn,  OpenCV, Pyqt5, Pandas, XGBoost, Matplotlib, ...
 + 英语：良好，CET-6 √（543分）
 
 ---
