@@ -54,6 +54,7 @@ Publications
         <a href="https://github.com/XuyangGuo/CtrlHair">Project</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/CtrlHair.pdf">Paper</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/bib.txt">Bib</a>
+        <p class="content">TL;DR: We propose a fine-grained controllabel hair editing method.</p>
     </td>
 </table>
 
@@ -69,6 +70,7 @@ Publications
         <a href="https://github.com/XuyangGuo/STD-GAN">Project</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/STD-GAN.pdf">Paper</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/bib.txt">Bib</a>
+        <p class="content">TL;DR: We propose an instance-level facial attribute editing method with more precise style, which is also compatible with multiple styles of generation simultaneously.</p>  
     </td>
 </table>
 
@@ -86,7 +88,9 @@ Projects
 Awards
 ======
 
-+ 2017.11 National Scholarship (Award Ratio: 1/60)
++ 2017.11 National Undergraduate Scholarship, Ministry of Education of China (Top 1/60)
++ 2019.6  Excellent Bachelor Thesis, Wuhan University (Top 5%)
++ 2014.9  First price in Chinese High School Mathematics League (Top 50 in Henan Province)
 
 ---
 

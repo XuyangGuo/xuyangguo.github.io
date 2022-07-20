@@ -57,6 +57,8 @@ redirect_from:
         <a href="https://github.com/XuyangGuo/CtrlHair">项目</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/CtrlHair.pdf">论文</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/bib.txt">Bib</a>
+        
+        <p class="content">简介：一种细粒度语义可控的头发编辑方法</p>
     </td>
 </table>
 
@@ -72,6 +74,8 @@ redirect_from:
         <a href="https://github.com/XuyangGuo/STD-GAN">项目</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/STD-GAN.pdf">论文</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/bib.txt">Bib</a>
+
+        <p class="content">简介：一种风格更精确的样例级人脸属性迁移方法，同时兼顾多风格生成</p>
     </td>
 </table>
 
@@ -89,7 +93,10 @@ redirect_from:
 奖励
 ======
 
-+ 2017.11 国家奖学金（获奖比例：1/60）
++ 2017.11 本科国家奖学金 （比例 1/60）
++ 2019.6  武汉大学优秀本科生毕业论文 （比例 5%）
++ 2014.9  全国高中数学联赛一等奖 （河南省前50名）
+
 
 ---
 
