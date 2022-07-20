@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "郭旭阳"
+title: "郭旭阳 (Xuyang Guo)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-+ 邮箱：[xyguoo@163.com](mailto:xyguoo@163.com)
-+ 工作和研究方向：计算机视觉、感知、图像生成和编辑、机器学习
++ [xyguoo@163.com](mailto:xyguoo@163.com)
++ 工作和研究兴趣：计算机视觉、感知、图像生成和编辑、机器学习
 
 
 ---
@@ -82,7 +82,7 @@ redirect_from:
 * 2020.7 - 2021.6, 人脸图像重打光
   * **华为 -  2012实验室**
   * 对自拍图像进行任意光照方向的重新打光。 
-  * 为了实现逼真可用的重打光想过，设计了两阶段方案：1）3D重建进行漫反射渲染；2）GAN网络精修。
+  * 为了实现逼真可用的重打光效果，设计了两阶段方案：1）3D重建进行漫反射渲染；2）GAN网络精修。
 
 ---
 

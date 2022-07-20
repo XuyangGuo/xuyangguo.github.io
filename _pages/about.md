@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 + Email: [xyguoo@163.com](mailto:xyguoo@163.com)
-+ Work and research direction: Computer Vision, Perception, Image Generation and Editing, Machine Learning
++ Work and Research Interest: Computer Vision, Perception, Image Generation and Editing, Machine Learning
 
 ---
 
