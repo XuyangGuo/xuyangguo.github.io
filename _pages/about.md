@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-+ [xyguoo@163.com](mailto:xyguoo@163.com) (welcome to contact me)
++ Email: [xyguoo@163.com](mailto:xyguoo@163.com)（welcome to contact me)
 + Work and Research Interest: Computer Vision, Perception, Image Generation and Editing, Machine Learning
 
 ---
