@@ -56,6 +56,8 @@ redirect_from:
 
         <a href="https://github.com/XuyangGuo/CtrlHair">项目</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/CtrlHair.pdf">论文</a> |
+		        <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/3167.mp4">视频</a> |
+        <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/3167.pdf">海报</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/bib.txt">Bib</a>
         
         <p class="content">简介：一种细粒度语义可控的头发编辑方法</p>
@@ -73,8 +75,6 @@ redirect_from:
 
         <a href="https://github.com/XuyangGuo/STD-GAN">项目</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/STD-GAN.pdf">论文</a> |
-        <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/3167.mp4">视频</a>
-        <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/3167.pdf">海报</a>
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/bib.txt">Bib</a>
 
         <p class="content">简介：一种风格更精确的样例级人脸属性迁移方法，同时兼顾多风格生成</p>
