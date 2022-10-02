@@ -53,6 +53,8 @@ Publications
 
         <a href="https://github.com/XuyangGuo/CtrlHair">Project</a> |
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/CtrlHair.pdf">Paper</a> |
+		<a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/3167.mp4">Video</a>
+        <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/3167.pdf">Poster</a>
         <a href="https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/bib.txt">Bib</a>
         <p class="content">TL;DR: We propose a fine-grained controllabel hair editing method.</p>
     </td>
